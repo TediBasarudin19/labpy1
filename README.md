@@ -24,7 +24,7 @@ dan ketik perintah untuk memasukan angka dan tekan enter jika sudah maka akan mu
 ![1](https://user-images.githubusercontent.com/46735500/52618156-9aff2b00-2ed0-11e9-8abb-0cd72fa1a99f.JPG)
 ![2](https://user-images.githubusercontent.com/46735500/52618168-a18da280-2ed0-11e9-8bd2-0f99133cf1e9.JPG)
 
-# 5. jika sudah sukses masuk ke github buka "your repository" dan akan muncul seperti ini jika ingin mengedit klik gamabar seperti pensil 
+# 5. jika sudah sukses masuk ke github buka "your repository" dan akan muncul seperti ini jika ingin mengedit klik gambar seperti pensil 
 
 ![screenshot 91](https://user-images.githubusercontent.com/46735500/52618928-d3a00400-2ed2-11e9-89c3-4609004098bb.png)
 
