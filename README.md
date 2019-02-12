@@ -19,3 +19,9 @@ dan ketik perintah untuk memasukan angka dan tekan enter jika sudah maka akan mu
 
 langkah ke tiga buka github di internet dan buat repository baru dan akan muncul tampilan input seperti di bawah ini:
 
+![image](https://user-images.githubusercontent.com/46735500/52617420-5e323480-2ece-11e9-8730-f4e79fc4091f.png)
+
+
+langkah ke empat buat folder README.md dengan membuat file baru di dokumen kosong dan buat text document dengan nama README.md setelah selesai klik kanan lalu buka "gitbas here" dan masukan input yang ada di repository di github sampai sukses menampilkan di github seperti di gambar ini:
+
+
