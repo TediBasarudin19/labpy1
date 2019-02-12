@@ -1,4 +1,4 @@
-# cara menampilkan data yang terbesar dengan 3 data menggunakan notepad dan cmd
+# cara menampilkan data yang terbesar dengan 3 buah bilangan menggunakan notepad dan cmd
 
 # 1. buka notepad pada pc dan masukan input untuk menampilkan data yang terbesar seperti gambar di bawah ini
 
