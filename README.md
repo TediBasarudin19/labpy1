@@ -26,4 +26,6 @@ dan ketik perintah untuk memasukan angka dan tekan enter jika sudah maka akan mu
 
 # 5. jika sudah sukses masuk ke github buka "your repository" dan akan muncul seperti ini jika ingin mengedit klik gamabar seperti pensil 
 
+![screenshot 91](https://user-images.githubusercontent.com/46735500/52618928-d3a00400-2ed2-11e9-89c3-4609004098bb.png)
+
 # selesai
